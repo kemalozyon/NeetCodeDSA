@@ -3,23 +3,23 @@
 This repository serves as a personal log for solving the **NeetCode 150**, a curated list of Data Structures and Algorithms (DSA) problems. The goal is to build a strong foundation in problem-solving patterns and technical interview preparation.
 
 ## 📊 Progress Summary
-**Total Solved:** 1 / 150
+**Total Solved:** 5 / 150
 
 | Topic | Completed | Status |
-| :--- | :---: | :--- |
-| Arrays & Hashing | 1 / 9 | 🟡 In Progress |
-| Two Pointers | 0 / 5 | ⚪ Pending |
-| Sliding Window | 0 / 6 | ⚪ Pending |
-| Stack | 0 / 6 | ⚪ Pending |
-| Binary Search | 0 / 7 | ⚪ Pending |
-| Linked List | 0 / 11 | ⚪ Pending |
-| Trees | 0 / 15 | ⚪ Pending |
-| Heap / Priority Queue | 0 / 7 | ⚪ Pending |
-| Backtracking | 0 / 10 | ⚪ Pending |
-| Tries | 0 / 3 | ⚪ Pending |
-| Graphs | 0 / 13 | ⚪ Pending |
-| Advanced Graphs | 0 / 6 | ⚪ Pending |
-| 1-D Dynamic Programming | 0 / 12 | ⚪ Pending |
+| :--- |:---------:| :--- |
+| Arrays & Hashing |   5 / 9   | 🟡 In Progress |
+| Two Pointers |   0 / 5   | ⚪ Pending |
+| Sliding Window |   0 / 6   | ⚪ Pending |
+| Stack |   0 / 6   | ⚪ Pending |
+| Binary Search |   0 / 7   | ⚪ Pending |
+| Linked List |  0 / 11   | ⚪ Pending |
+| Trees |  0 / 15   | ⚪ Pending |
+| Heap / Priority Queue |   0 / 7   | ⚪ Pending |
+| Backtracking |  0 / 10   | ⚪ Pending |
+| Tries |   0 / 3   | ⚪ Pending |
+| Graphs |  0 / 13   | ⚪ Pending |
+| Advanced Graphs |   0 / 6   | ⚪ Pending |
+| 1-D Dynamic Programming |  0 / 12   | ⚪ Pending |
 
 ---
 
@@ -48,7 +48,7 @@ The files are organized by the core topics shown in the NeetCode roadmap:
 ---
 
 ## 🛠️ Tech Stack & Methodology
-- **Language:** Java
+- **Language:** Java + Python
 - **Goal:** For every problem, I aim to provide:
     - An optimized solution with detailed comments.
     - Time and Space complexity analysis ($O(n)$, $O(\log n)$, etc.).
